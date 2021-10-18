@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1633754281 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-01_hello world.c
+	<stdio.h>
+
+1584205420 source:d:\programming test and learn\git basics\c programming basics\c basics\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1633754717 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-06_calculate area of circle.c
+	<stdio.h>
+
+1633754765 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-07_calculate marks & average.c
+	<stdio.h>
+	<stdlib.h>
+
+1633755717 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-20_arrays-4-user inputs.c
+	<stdio.h>
+	<stdlib.h>
+
+1633782860 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-28_while loop-5-multi dimensional array with nesetd loop.c
+	<stdio.h>
+	<stdlib.h>
+
+1633933882 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-29_do while loop-1.c
+	<stdio.h>
+	<stdlib.h>
+
+1633934213 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-30_do while loop-2.c
+	<stdio.h>
+	<stdlib.h>
+
+1633934368 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-31_for loop-1.c
+	<stdio.h>
+	<stdlib.h>
+
+1633936057 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-34_for loop - 4 - pattern printing - 2.c
+	<stdio.h>
+	<stdlib.h>
+
+1633938192 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-35_for loop - 5 - pattern printing - 3.c
+	<stdio.h>
+	<stdlib.h>
+
+1633939363 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-37_for loop - 7 - create a matrix mxn.c
+	<stdio.h>
+	<stdlib.h>
+
+1633950504 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-38_for loop - 8 - factorial.c
+	<stdio.h>
+	<stdlib.h>
+
+1633953109 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-39_for loop - 9 - prime number.c
+	<stdio.h>
+	<stdlib.h>
+
+1633953913 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-40_for loop - 10 - fibonacci series.c
+	<stdio.h>
+	<stdlib.h>
+
+1634016231 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-43_variable scope - 3 - static variables.c
+	<stdio.h>
+	<stdlib.h>
+
+1634018130 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-44_goto keyword - 1.c
+	<stdio.h>
+	<stdlib.h>
+
+1634018677 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-55_goto keyword - 2 - with for loops.c
+	<stdio.h>
+	<stdlib.h>
+
+1634019509 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-46_continue statement.c
+	<stdio.h>
+	<stdlib.h>
+
+1634026864 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-49_functions - 2.c
+	<stdio.h>
+	<stdlib.h>
+
+1634043499 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-50_functions - 3.c
+	<stdio.h>
+	<stdlib.h>
+
+1634274880 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-51_functions - 4 - fibonacci - factorial- prime.c
+	<stdio.h>
+	<stdlib.h>
+
+1634278829 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-53_pointers - 2 - call by value.c
+	<stdio.h>
+	<stdlib.h>
+
+1634279472 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-55_pointers - 4 - call by reference - 2.c
+	<stdio.h>
+	<stdlib.h>
+
+1634364033 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-56_pointers - 5 - swapping 2 numbers.c
+	<stdio.h>
+	<stdlib.h>
+
+1634364519 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-57_pointers - 6 - passing arrays to a function - 1.c
+	<stdio.h>
+	<stdlib.h>
+
+1634371449 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-60_recursion - 1.c
+	<stdio.h>
+	<stdlib.h>
+
+1634380541 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-61_recursion - 2 - fibonacci.c
+	<stdio.h>
+	<stdlib.h>
+
+1634381044 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-62_recursion - 3 - factorial.c
+	<stdio.h>
+	<stdlib.h>
+
+1634382953 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-66_strings - 3 - inbuilt functions - upper and lower.c
+	<stdio.h>
+	<stdlib.h>
+
+1634383111 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-67_strings - 4 - inbuilt functions - copy.c
+	<stdio.h>
+	<stdlib.h>
+
+1634383805 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-69_strings - 6 - inbuilt functions - compare.c
+	<stdio.h>
+	<stdlib.h>
+
+1634384648 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-70_strings - 7 - inbuilt functions - search.c
+	<stdio.h>
+	<stdlib.h>
+
+1634492212 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-71_strings-compare 2 strings without inbuilt function.c
+	<stdio.h>
+	<stdlib.h>
+
+1634494219 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-73_strings-count alphabets digits and symbols.c
+	<stdio.h>
+	<stdlib.h>
+
+1634541942 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-76_unions.c
+	<stdio.h>
+	<stdlib.h>
+
+1634555634 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-77_type casting - implicit.c
+	<stdio.h>
+	<stdlib.h>
+
+1634555798 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-78_type casting - expplicitly.c
+	<stdio.h>
+	<stdlib.h>
+
+1634561146 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-85_file operations - store string with spaces.c
+	<stdio.h>
+	<stdlib.h>
+
+1634561866 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-86_file operations - structures.c
+	<stdio.h>
+	<stdlib.h>
+
+1634563250 source:d:\programming test and learn\git basics\c programming basics\c basics\ex-88_file operations - read and write line by line.c
+	<stdio.h>
+	<stdlib.h>
+
